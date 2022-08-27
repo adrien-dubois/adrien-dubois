@@ -1,13 +1,15 @@
 ![Cover](https://github.com/adrien-dubois/adrien-dubois/blob/main/img/2.png)
 
-# Adrien Dubois | Developer Backend 
+# Adrien Dubois | Developer Fullstack 
 
-Hello I'm Adrien, a french web developer, an old chef just converted to make my passion a daily job. First I was directing myself to webdesign, cause I lovea making mockups / templates and wireframe, but I discover the code and it was an illumination.
-Today I am specialized in backend developement, with PHP which I love. PHP Vanilla, I made my own framework, but I can work with Symfony or Lumen Laravel. I can do a little JS too.
+Hello I'm Adrien, a french web developer, which my passion is a daily job. 
+I am specialized in backend developement, with PHP which I love. PHP Vanilla, I made my own framework, but I can work with Symfony and I'm starting discovering .NET 6.0.
+However I love also frontend, and particullary ReactJS framework. I was first a back guy, but since I discovered React, I love so much frontend, even much better than back. I love CSS too, so no CSS Framework for me.
+So I make the API, and after that I develop the Front.
 
 ## 🚀 My Skills
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html logo" title="Html" height="25" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo" title="CSS" height="25"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25"/> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> <img src="https://img.shields.io/badge/Symfony-282C34?logo=symfony&logoColor=3DDC84" alt="Symfony logo" title="Symfony" height="25" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25"/> <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=61DAFB" alt="Bootstrap logo" title="Bootstrap" height="25" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html logo" title="Html" height="25" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo" title="CSS" height="25"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25"/> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> <img src="https://img.shields.io/badge/Symfony-282C34?logo=symfony&logoColor=3DDC84" alt="Symfony logo" title="Symfony" height="25" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25"/> 
 
 
 ## 🛠 My Tools
